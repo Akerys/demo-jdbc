@@ -10,6 +10,7 @@ import java.sql.SQLException;
  */
 public class App 
 {
+	//test
     private static final String DB_URL = "jdbc:mariadb://localhost:3306/compta";
     private static final String DB_LOGIN = "root";
     private static final String DB_PWD = "nprspa3417";
